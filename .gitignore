@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.vscode/
+
+# Dataset tidak di-upload ke GitHub
+dataset/
+
+# File temporary
+*.tmp
+*.log
+
+# Cache
+.ipynb_checkpoints/
